@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bola</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="mu">Man.Utd</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="liverpool">Liverpool</string>
+    <string name="mc">Man.City</string>
+    <string name="Tottenham">Tottenham</string>
+    <string name="newcastle">Newcastle</string>
+    <string name="brigthon">Brighton</string>
+</resources>

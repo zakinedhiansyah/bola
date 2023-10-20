@@ -1,0 +1,5 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">40dp</dimen>
+</resources>
